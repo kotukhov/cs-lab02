@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+double main()
 {
 cout << "Enter A and B: ";
 double a, b;
